@@ -1,16 +1,16 @@
-## Hi there 👋
+##  Hey! 👋
 
-<!--
-**CancinoVictor/CancinoVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Hi, I'm Victor! I'm a software engineer in the making, passionate about backend development, aspiring to become a DevOps engineer, and excited about the world of cybersecurity."
 
-Here are some ideas to get you started:
+<p><em>Computer Systems Engineering at <a href="https://www.uadec.mx/">Autonomous University of Coahuila.</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A little more about me...  
+
+```javascript
+const Cancino = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [Flask, Mysql, Docker]
+}
+```
